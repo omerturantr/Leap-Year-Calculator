@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class LeapYearCalculator {
+class Leap_Year_Calculator {
     public static void main(String[] args) {
 
         int year;
